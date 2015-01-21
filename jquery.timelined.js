@@ -318,10 +318,7 @@
 
             var inPercent = (this.records.records[i].date.valueOf() - timeHeadings[0].dateFormat.valueOf() ) / timelineInMs;
             var inPixles = inPercent * timeline.cHeight;
-            window.log('i: ' + i);
-            window.log('Percent: ' + inPercent);
-            window.log('Pixles: ' + inPixles);
-           
+    
             this.records.records[i].createDiv(timeline.verticalMargin + inPixles);
         }
 
