@@ -45,6 +45,11 @@ To install and use this plugin, include the following files from this repo:
 - jquery.timelined.js
 - timelined.css to your project.
 
+## Screenshot
+A timeline could look like this:
+
+![Timelined logo](/dev/screenshot01.png?raw=true "Timelined-logo")
+
 ## Minimal example
 
 Minimal working example can be found here: http://jsfiddle.net/flightcubs/yztxjumj/2/
