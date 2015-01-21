@@ -43,7 +43,7 @@ This plugin requires:
 
 To install and use this plugin, include the following files from this repo:
 - jquery.timelined.js
-- timelined.css to your project.
+- jquery.timelined.css
 
 ## Screenshot
 A timeline could look like this:
